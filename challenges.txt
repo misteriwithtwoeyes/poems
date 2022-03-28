@@ -1,0 +1,8 @@
+
+1. Create a function called "countSyllables(someWord)" that will console.log(csyllableCount);
+
+
+## Workshop Script
+1. Visit http://github.com
+2. 
+
