@@ -17,3 +17,4 @@ var firstSevenSyllables = "";
 var secondFiveSyllables = "";
 
 
+document.body.parentNode.innerHTML = makeHtmlHaiku(firstFiveSyllables, firstSevenSyllables, secondFiveSyllables);
