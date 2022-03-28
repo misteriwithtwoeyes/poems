@@ -1,0 +1,19 @@
+// The haiku is a Japanese poetic form that consists of three lines, with five syllables in the first line, seven in the second, and five in the third. 
+
+/**
+ syl·la·ble
+ /ˈsiləb(ə)l/
+ noun
+ a unit of pronunciation having one vowel sound, with or without surrounding consonants, forming the whole or a part of a word; e.g., there are two syllables in water and three in inferno.
+ */
+
+function makeHtmlHaiku(firstLine, secondLine, thirdLine){
+    var haiku = firstLine + "<br>" + secondLine + "<br>" + thirdLine;
+    return haiku;
+}
+
+var firstFiveSyllables = "Haikus are easy";
+var firstSevenSyllables = "";
+var secondFiveSyllables = "";
+
+
